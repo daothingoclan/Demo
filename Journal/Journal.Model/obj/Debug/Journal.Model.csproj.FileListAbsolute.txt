@@ -1,0 +1,5 @@
+D:\Document\GitProjects\Demo\Journal\Journal.Model\bin\Debug\Journal.Model.dll
+D:\Document\GitProjects\Demo\Journal\Journal.Model\bin\Debug\Journal.Model.pdb
+D:\Document\GitProjects\Demo\Journal\Journal.Model\obj\Debug\Journal.Model.csprojResolveAssemblyReference.cache
+D:\Document\GitProjects\Demo\Journal\Journal.Model\obj\Debug\Journal.Model.dll
+D:\Document\GitProjects\Demo\Journal\Journal.Model\obj\Debug\Journal.Model.pdb

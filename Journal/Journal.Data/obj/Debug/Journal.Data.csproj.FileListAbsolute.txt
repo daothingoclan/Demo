@@ -1,0 +1,4 @@
+D:\Document\GitProjects\Demo\Journal\Journal.Data\bin\Debug\Journal.Data.dll
+D:\Document\GitProjects\Demo\Journal\Journal.Data\bin\Debug\Journal.Data.pdb
+D:\Document\GitProjects\Demo\Journal\Journal.Data\obj\Debug\Journal.Data.dll
+D:\Document\GitProjects\Demo\Journal\Journal.Data\obj\Debug\Journal.Data.pdb

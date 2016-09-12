@@ -94,10 +94,32 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\apple-touch-icon-precomposed.png" />
+    <Content Include="app\css\main.css" />
+    <Content Include="app\favicon.ico" />
+    <Content Include="app\index.html" />
+    <Content Include="app\js\main.js" />
+    <Content Include="app\main-component.js" />
+    <Content Include="app\partials\404.html" />
+    <Content Include="app\partials\about.html" />
+    <Content Include="app\partials\blog.html" />
+    <Content Include="app\partials\blog_item.html" />
+    <Content Include="app\partials\contact.html" />
+    <Content Include="app\partials\faq.html" />
+    <Content Include="app\partials\home.html" />
+    <Content Include="app\partials\pricing.html" />
+    <Content Include="app\partials\services.html" />
+    <Content Include="app\templates\footer.html" />
+    <Content Include="app\templates\header.html" />
+    <Content Include="app\testComponent.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include=".bowerrc" />
+    <Content Include="bower.json" />
+    <Content Include="app\LICENSE" />
+    <Content Include="app\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -112,6 +134,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="assets\libs\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -39,3 +39,5 @@ D:\Document\GitProjects\Demo\Journal\Journal.Api\bin\System.Web.Http.WebHost.xml
 D:\Document\GitProjects\Demo\Journal\Journal.Api\obj\Debug\Journal.Api.csprojResolveAssemblyReference.cache
 D:\Document\GitProjects\Demo\Journal\Journal.Api\obj\Debug\Journal.Api.dll
 D:\Document\GitProjects\Demo\Journal\Journal.Api\obj\Debug\Journal.Api.pdb
+D:\Document\GitProjects\Demo\Journal\Journal.Api\bin\log4net.dll
+D:\Document\GitProjects\Demo\Journal\Journal.Api\bin\log4net.xml

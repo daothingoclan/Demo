@@ -1,0 +1,30 @@
+{
+  "name": "crazy-journal",
+  "version": "1.0",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "latest",
+    "font-awesome": "^4.6.3",
+    "angular-material": "^1.1.1"
+  },
+  "description": "This is Journal packages",
+  "main":  "./main-component.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "wwwroot/lib",
+    "test",
+    "tests"
+  ],
+  "_release": "1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0",
+    "commit": "9ac9b5a6da78daa94927a7c67f9b4e74d42d2650"
+  },
+  "_source": "https://github.com/daothingoclan/Demo.git",
+  "_target": "*",
+  "_originalSource": "angular"
+}

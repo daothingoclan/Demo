@@ -1,5 +1,0 @@
-D:\Document\GitProjects\Demo\Journal\Journal.Service\bin\Debug\Journal.Service.dll
-D:\Document\GitProjects\Demo\Journal\Journal.Service\bin\Debug\Journal.Service.pdb
-D:\Document\GitProjects\Demo\Journal\Journal.Service\obj\Debug\Journal.Service.csprojResolveAssemblyReference.cache
-D:\Document\GitProjects\Demo\Journal\Journal.Service\obj\Debug\Journal.Service.dll
-D:\Document\GitProjects\Demo\Journal\Journal.Service\obj\Debug\Journal.Service.pdb
